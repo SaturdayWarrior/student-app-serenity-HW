@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.studentapp.studentinfo.FirstSerenityTest" skipped="1" tests="1" time="0.08" timestamp="2022-01-09T08:32:46.472Z[Europe/London]"><testcase classname="com.studentapp.studentinfo.FirstSerenityTest" name="This is compromised"><compromised message="E:\file.txt (The system cannot find the path specified)" type="java.io.FileNotFoundException">E:\file.txt (The system cannot find the path specified)</compromised><system-err>E:\file.txt (The system cannot find the path specified)&#13;
+com.studentapp.studentinfo.FirstSerenityTest.thisIsCompromised(FirstSerenityTest.java:59)&#13;
+</system-err></testcase></testsuite>

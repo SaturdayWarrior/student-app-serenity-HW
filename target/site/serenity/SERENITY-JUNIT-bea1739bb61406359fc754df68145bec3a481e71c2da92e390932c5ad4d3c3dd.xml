@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.studentapp.studentinfo.FirstSerenityTest" skipped="0" tests="1" time="0.08" timestamp="2022-01-09T08:30:13.849Z[Europe/London]"><testcase classname="com.studentapp.studentinfo.FirstSerenityTest" name="This is test with error"><error message="/ by zero" type="java.lang.ArithmeticException">/ by zero</error><system-err>/ by zero&#13;
+com.studentapp.studentinfo.FirstSerenityTest.thisIsTestWithError(FirstSerenityTest.java:48)&#13;
+</system-err></testcase></testsuite>
